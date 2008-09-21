@@ -1,0 +1,10 @@
+[Epiphany Extension]
+Name=Search Box
+Description=Quick access to multiple search engines
+Authors=Eric Butler
+Version=1
+URL=
+
+[Loader]
+Type=python
+Module=searchbox
